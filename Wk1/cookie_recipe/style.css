@@ -1,0 +1,22 @@
+/*Cookie Recipe CSS
+=================
+
+- The background color for the page is #FFE
+- The color for the text reading "Nutrition Information" is #887
+- The link color is #900
+
+Bonus: The border on the page and around the image is black -->*/
+
+h3{
+  color: #887;
+  text-decoration: underline;
+}
+
+a{
+  color: #900;
+  }
+body{
+    background-color:#FFE;
+
+border: 4px solid black;
+}

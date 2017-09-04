@@ -1,0 +1,39 @@
+h1 {
+  background-color: #f75a4c;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: 4px solid black;
+}
+
+p {
+  background-color: #b3eafc;
+  text-decoration-color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+  border: 2px solid black;
+}
+
+code{
+  background-color: white;
+  text-decoration-color: black;
+  padding-left: 2px;
+  padding-right: 2px;
+  border: 1px solid black;
+}
+
+
+h2{
+  text-decoration: underline;
+  font-style: normal;
+}
+ol{
+  font-style: italic;
+}
+li{
+  font-style: oblique;
+}
+
+.space{
+  margin-bottom: none;
+
+}
