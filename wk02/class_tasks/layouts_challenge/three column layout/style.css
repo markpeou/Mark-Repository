@@ -1,0 +1,29 @@
+.placeholder {
+background-color: #bbb;
+border: 1px solid black;
+margin: 20px;
+}
+
+header .placeholder, footer .placeholder{
+  height: 200px;
+}
+
+main .placeholder, aside .placeholder{
+  height: 400px;
+}
+
+header, footer, main, aside{
+  float:left;
+}
+
+header, footer{
+  width: 100%;
+}
+
+main{
+  width: 60%;
+}
+
+aside{
+  width: 20%;
+}

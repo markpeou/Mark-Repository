@@ -1,0 +1,70 @@
+.logo, .placeholder, .main, .placeholder2, .footer{
+  background-color: #bbb;
+  border: 1px solid black;
+  margin: 20px;
+}
+
+header .logo {
+display:inline-block;
+margin-top: 20px;
+margin-left:20px;
+
+}
+
+nav{
+  display:inline-block;
+  margin-left: 80px;
+  margin-top: 0px;
+  margin-bottom:0px;
+}
+
+ul {
+  display: inline-block;
+  margin-left: 0;
+  margin-bottom: 0;
+  padding:0;
+
+
+}
+.logo {
+  height: 100px;
+  width: 180px;
+
+}
+
+.placeholder {
+  height: 100px;
+  width: 100px;
+  margin-top:80px;
+
+}
+
+.main {
+height: 400px;
+width: 100%;
+display:inline-block;
+}
+
+.placeholder2 {
+  height: 150px;
+  width: 100px;
+  display:inline-block;
+}
+
+footer .footer {
+  height: 100px;
+  width: 100%;
+  display: inline-block;
+}
+
+main {
+  width: 100%;
+}
+
+footer {
+  width: 100%;
+}
+
+* {
+  box-sizing: content-box;
+}

@@ -1,0 +1,20 @@
+div{
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  border: 1px solid black;
+  display: inline-block;
+  float:left;
+}
+
+div.diff{
+  height: 200px;
+  width: 200px;
+  background-color: green;
+  border: 1px solid black;
+}
+}
+
+.clear{
+  clear:both;
+}

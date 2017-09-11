@@ -1,0 +1,47 @@
+.placeholder {
+background-color: #bbb;
+border: 1px solid black;
+margin: 20px;
+}
+
+header .placeholder, footer .placeholder, li .placeholder {
+  height: 200px;
+}
+
+aside .placeholder {
+  height: 400px;
+}
+
+nav li {
+  width: 33.333% ;
+  display: inline-block;
+}
+
+header, footer, aside, nav {
+  /*float: left;*/
+  display: inline-block;
+}
+
+header, footer {
+  width: 100%;
+}
+
+nav {
+ width: 100%;
+}
+
+aside {
+  width: 50%;
+}
+
+body {
+  font-size: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+ul {
+  padding: 0;
+}
